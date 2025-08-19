@@ -1,0 +1,22 @@
+[Hotkey]
+; Modifier keys (1 = enabled, 0 = disabled)
+Ctrl=1
+Alt=1
+Shift=0
+Win=0
+
+; Virtual key code for the main key (default: 68 = 'D')
+KeyCode=68
+
+[Application]
+; Start with Windows (1 = enabled, 0 = disabled)
+StartWithWindows=0
+
+; Show notifications (1 = enabled, 0 = disabled)
+ShowNotifications=1
+
+; Remember last state (1 = enabled, 0 = disabled)
+RememberState=1
+
+; Last known desktop icon state (1 = visible, 0 = hidden)
+LastIconState=1
